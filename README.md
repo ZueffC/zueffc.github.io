@@ -1,1 +1,2 @@
-"# zueff.github.io" 
+Результат работы генератора статических блогов Pelican (Python).
+https://zueffc.github.io - демо с нестандарной темой.
